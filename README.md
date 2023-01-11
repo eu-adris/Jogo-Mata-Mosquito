@@ -10,3 +10,5 @@
 Mini jogo de mata-mosquito utilizando HTML, CSS e JavaScript.
 
 Um pequeno projeto que aprendi durante o curso da Udemy, com os agradecimentos ao professor Jorge Sant Anna.
+
+<b> link para o site: https://jogo-mata-mosquito-gamma.vercel.app/
